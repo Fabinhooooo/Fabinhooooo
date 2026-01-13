@@ -3,7 +3,7 @@
 
 - Je suis actuellement en **2éme année de Master système réseau**
 
-- Je cherche à collaborer avec des personnes dans **la cybersécurité ou dans l'architecture réseau**
+- Je cherche à collaborer avec des personnes dans **la cybersécurité ou dans l'administration réseau**
 
 - Comment me contacter **moinauxfabien00@gmail.com**
 
