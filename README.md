@@ -1,9 +1,9 @@
 <h1 align="center">Hey, je suis Fabien</h1>
 <h3 align="center">Un étudiant en M2 CNS SR (Systeme réseau) à l'université Paris-Saclay</h3>
 
-- Je suis actuellement en **2éme année de Master système réseau**
+- Je suis actuellement en **2éme année de Master CNS - Systèmes et Réseaux**
 
-- Je cherche à collaborer avec des personnes dans **la cybersécurité ou dans l'administration réseau**
+- Je cherche à collaborer avec des personnes dans **la cybersécurité ou dans le réseau de manière générale**
 
 - Comment me contacter **moinauxfabien00@gmail.com**
 
